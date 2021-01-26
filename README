@@ -1,0 +1,4 @@
+You can set the button's scale like this:
+button.SetScale(scaleWidth, scaleHeight)
+E.g:
+self.costumeButton.SetScale(0.5, 0.5)
